@@ -2,6 +2,25 @@
 
 This document details general AT organizations, resources, and practioniers within the city of Berkley, California.
 
+## Center for Accessible Technology
+
+Non-profit providing access to assistive technology, websites/apps, and essential services.
+
+- Website: https://www.c4at.org/
+- About page: https://www.c4at.org/about_us.html
+- AT page: https://www.c4at.org/assistive_technology.html
+
+**WARNING**: Website frequently freezes when navigating.
+
+### Contact info
+
+3075 Adeline Street, Suite 220
+Berkeley, CA 94703
+
+Phone: (510) 841-3224
+Email: info@C4AT
+https://www.c4at.org/Contact_Us.html
+
 ## Center for Independent Living
 
 Non-profit org providing advocacy, programming, and services for people with disabilities.
@@ -18,3 +37,4 @@ Berkeley, CA 94703
 - Berkley office page: https://thecil.org/berkeley/
 - Website contact form: https://thecil.org/contact-us/
 - Phone: (510) 841-4776
+

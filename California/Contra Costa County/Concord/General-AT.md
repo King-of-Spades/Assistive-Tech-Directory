@@ -12,8 +12,8 @@ Speech clinic offering school-based services and therapy to children and adults.
 
 ### Contact info
 
-1849 Willow Pass Rd., Suite 420,
-Concord, CA 94518
+1849 Willow Pass Rd., Suite 420,  
+Concord, CA 94518  
 (925) 672-9440
 
 - Email: scheduling@cabtherapy.com
@@ -29,9 +29,9 @@ Non-profit org offering free services for people with disabilities, seniors, the
 
 ### Contact info
 
-Main Office
-1850 Gateway Blvd., Ste 170
-Concord, CA 94520
-(925) 363-7293
+Main Office  
+1850 Gateway Blvd., Ste 170  
+Concord, CA 94520  
+(925) 363-7293  
 
 - Website contact form: https://www.ilrscc.org/contact-us/

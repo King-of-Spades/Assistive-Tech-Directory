@@ -12,15 +12,15 @@ Non-profit org offering free services for people with disabilities, seniors, the
 
 ### Contact info
 
-Main Office
-1850 Gateway Blvd., Ste 170
-Concord, CA 94520
+Main Office  
+1850 Gateway Blvd., Ste 170  
+Concord, CA 94520  
 (925) 363-7293
 
-Contra Costa County
-420 Railroad Ave., Ste. 101
-Pittsburg, CA 94565
-(925) 754-0539
+Contra Costa County  
+420 Railroad Ave., Ste. 101  
+Pittsburg, CA 94565  
+(925) 754-0539  
 
 - Website contact form: https://www.ilrscc.org/contact-us/
 
@@ -32,9 +32,9 @@ Local school district with dedicated AT team working on a consult basis to provi
 
 ### Contact info
 
-Willow Creek Center
-1026 Mohr Lane
-Concord, CA 94518
+Willow Creek Center  
+1026 Mohr Lane  
+Concord, CA 94518  
 (925) 685-1011 Ext. 62041
 
 ## West Contra Costa Unified School District
@@ -45,11 +45,11 @@ Local school district with AT resource program
 
 ### Contact info
 
-Assistive Technology (W.A.T.R.)
-Pupil Services Center (PSC)
-2900 Pinole Valley Road  Room C311
+Assistive Technology (W.A.T.R.)  
+Pupil Services Center (PSC)  
+2900 Pinole Valley Road  Room C311  
 Pinole, CA 94564 
 
-Phone: (510) 307-4524
-Fax: (510) 758-4210
-Email: watr@wccusd.net
+- Phone: (510) 307-4524
+- Fax: (510) 758-4210
+- Email: watr@wccusd.net

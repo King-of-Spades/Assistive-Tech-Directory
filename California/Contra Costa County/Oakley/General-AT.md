@@ -12,8 +12,8 @@ Speech clinic offering school-based services and therapy to children and adults.
 
 ### Contact info
 
-4700 Main St., Suite A
-Oakley, CA 94561
+4700 Main St., Suite A  
+Oakley, CA 94561  
 (925) 672-9440
 
 - Email: scheduling@cabtherapy.com

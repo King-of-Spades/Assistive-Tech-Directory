@@ -12,8 +12,8 @@ Non-profit org offering free services for people with disabilities, seniors, the
 
 ### Contact info
 
-450 Chadbourne Rd., Ste. D
-Fairfield, CA 94534
+450 Chadbourne Rd., Ste. D  
+Fairfield, CA 94534  
 (707) 435-8174
 
 - Website contact form: https://www.ilrscc.org/contact-us/

@@ -18,11 +18,11 @@ Community-based resources to support independent living for people with disabili
 
 ### Contact info
 
-Ability Tools
-1000 G Street, #100
-Sacramento, CA 95814
+Ability Tools  
+1000 G Street, #100  
+Sacramento, CA 95814  
 
-800-390-2699 (Option 1)
+800-390-2699 (Option 1)  
 800-900-0706 TTY
 
 - Website contact form: https://abilitytools.org/about/contact-us.php
@@ -36,12 +36,12 @@ Provides information and references to a wide variety of diabilities and support
 
 ### Contact info
 
-17800 Highway 18
-Apple Valley, CA 92307
+17800 Highway 18  
+Apple Valley, CA 92307  
 
-Phone: (760) 552-6700
-Fax: (760) 242-5363
-Email: virtualteam@cahelp.org
+Phone: (760) 552-6700  
+Fax: (760) 242-5363  
+Email: virtualteam@cahelp.org  
 
 
 ## California Community Colleges - Accessibility Center
@@ -53,8 +53,8 @@ Provides detailed list and links of common AT tools as well as operating system-
 
 ### Contact info
 
-Email: accessibility@ccctechcenter.org 
-Contact page: https://cccaccessibility.org/about/about-us
+- Email: accessibility@ccctechcenter.org 
+- Contact page: https://cccaccessibility.org/about/about-us
 
 ## California Department of Rehabilitation (DOR)
 

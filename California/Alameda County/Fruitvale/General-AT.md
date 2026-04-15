@@ -12,7 +12,7 @@ Non-profit org providing advocacy, programming, and services for people with dis
 
 ### Contact info
 
-1470 Fruitvale Avenue
+1470 Fruitvale Avenue  
 Oakland, CA 94601
 
 - Fruitvale office page: https://thecil.org/fruitvale/

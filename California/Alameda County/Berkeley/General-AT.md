@@ -14,12 +14,12 @@ Non-profit providing access to assistive technology, websites/apps, and essentia
 
 ### Contact info
 
-3075 Adeline Street, Suite 220
+3075 Adeline Street, Suite 220  
 Berkeley, CA 94703
 
-Phone: (510) 841-3224
-Email: info@C4AT
-https://www.c4at.org/Contact_Us.html
+- Phone: (510) 841-3224
+- Email: info@C4AT
+- Contact page: https://www.c4at.org/Contact_Us.html
 
 ## Center for Independent Living
 
@@ -31,7 +31,7 @@ Non-profit org providing advocacy, programming, and services for people with dis
 
 ### Contact info
 
-3075 Adeline Street, Suite 100
+3075 Adeline Street, Suite 100  
 Berkeley, CA 94703
 
 - Berkley office page: https://thecil.org/berkeley/

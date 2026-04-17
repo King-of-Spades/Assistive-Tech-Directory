@@ -53,3 +53,9 @@ Pinole, CA 94564
 - Phone: (510) 307-4524
 - Fax: (510) 758-4210
 - Email: watr@wccusd.net
+
+## Contra Costa Resources Directory
+
+A directory of phone numbers and websites for Children and Adults with special needs.
+
+PDF: https://www.contracostavote.gov/wp-content/uploads/Contra-Costa-County-Resources-for-Children-and-Adults-with-Special-Needs.pdf

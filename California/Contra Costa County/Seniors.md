@@ -156,3 +156,22 @@ Antioch, CA 94509
 (925) 778-4171
 
 Online Referral Form: https://hipaa.jotform.com/ChoiceinAging/ADHC-Referral-Form-Bedford
+
+## Meals on Wheels Diablo Region
+
+In addition to the typical "meals on wheels" program for meal deliveries to homebound seniors, this non-profit also has services for:
+
+- Care Management
+- Fall Prevention
+- Social Programs
+- Health & Wellness
+
+Website: https://www.mowdiabloregion.org/about-us
+
+### Contact Info
+
+Online contact form: https://www.mowdiabloregion.org/contact-us
+
+PO Box 4870
+Walnut Creek, CA 94596
+925-937-8311

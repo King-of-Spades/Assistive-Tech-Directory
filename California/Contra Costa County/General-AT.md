@@ -59,3 +59,26 @@ Pinole, CA 94564
 A directory of phone numbers and websites for Children and Adults with special needs.
 
 PDF: https://www.contracostavote.gov/wp-content/uploads/Contra-Costa-County-Resources-for-Children-and-Adults-with-Special-Needs.pdf
+
+## Diablo Valley College
+
+Provides instruction and resources for students with disabilties. They also have a directory of community support organizations.
+
+Main webpage: https://www.dvc.edu/student-services/disability-support-services
+
+Community resources: https://www.dvc.edu/student-services/disability-support-services/dss-community-resources
+
+### Contact info
+
+Pleasant Hill Campus  
+Student Services Center - SSC, Room 248  
+321 Golf Club Road  
+Pleasant Hill, CA 94523  
+
+San Ramon Campus  
+West Building - W, Room 118  
+1690 Watermill Road  
+San Ramon, CA 94582
+
+Email: nsantamaria@dvc.edu  
+Phone: (925) 969-2182

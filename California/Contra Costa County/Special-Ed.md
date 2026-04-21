@@ -90,3 +90,21 @@ Two preschool classes: one for students who are deaf and hard of hearing, and on
 A directory of phone numbers and websites for Children and Adults with special needs.
 
 PDF: https://www.contracostavote.gov/wp-content/uploads/Contra-Costa-County-Resources-for-Children-and-Adults-with-Special-Needs.pdf
+
+## West Contra Costa County Unified School District
+
+Has a department for Visually Impaired students including a linked referral document.
+
+Webpage: https://www.wccusd.net/departments-and-areas/visually-impaired
+
+Referral Doc: https://resources.finalsite.net/images/v1730155285/wccusdnet/snzivnjkuuatfrybu4yg/vireferralprocedures_final.pdf
+
+### Contact Info
+
+Visually Impaired Department  
+Pinole Valley High School  
+2900 Pinole Valley Road - C213  
+Pinole, CA 94564
+
+Phone: (510) 307-4642  
+Fax: (510) 724-8829

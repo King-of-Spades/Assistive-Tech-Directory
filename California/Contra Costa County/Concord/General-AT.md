@@ -35,3 +35,11 @@ Concord, CA 94520
 (925) 363-7293  
 
 - Website contact form: https://www.ilrscc.org/contact-us/
+
+
+## Concord City Community Services
+
+Resource list of many supportive services available in Concord.
+
+https://www.cityofconcord.org/DocumentCenter/View/10755/City-of-Concord-Resource-List
+

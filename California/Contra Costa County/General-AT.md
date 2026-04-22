@@ -82,3 +82,40 @@ San Ramon, CA 94582
 
 Email: nsantamaria@dvc.edu  
 Phone: (925) 969-2182
+
+## Contra Costa Crisis Center
+
+Directory of many broad county human support resources. Includes many services that members of the disabled community may need, particularly if they are also struggling with poverty, depression, and/or homelessness.
+
+Website: https://cccc.myresourcedirectory.com/index.php/en/
+
+### Contact Info
+
+Call 211 or text HOPE to 20121.
+
+Web contact form: https://cccc.myresourcedirectory.com/index.php/en/contact-us
+
+## Ability Now Bay Area
+
+Offers adults with developmental and physical disabilities comprehensive services including:
+
+- Education
+- Communication
+- Computer Literacy
+- Vocational Training
+- Wellness
+- Community Integration
+
+They also emphasize self-advocacy, independent living skills, and leisure skills to improve quality of life. 
+
+Website: https://abilitynowbayarea.org/
+
+### Contact Info
+
+4500 Lincoln Avenue  
+Oakland, CA 94602
+
+info@abilitynowba.org
+
+Phone: (510) 531-3323  
+Fax: (510) 531-2990

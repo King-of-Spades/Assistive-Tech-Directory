@@ -60,3 +60,21 @@ Fremont, CA 94536
 Phone: 510-794-3800  
 Fax: 510-794-3813  
 Email: info@csb-cde.ca.gov
+
+## California Department of Developmental Services
+
+Provides a extensive listing of Deaf, Hard of Hearing, and DeafBlind Resources across the following categories:
+
+- Family Resources
+- Education & Advocacy
+- DeafBlind Resources
+- General Resources
+- Legal Resources
+- Trainings
+- Regional Center Directives
+- Events
+- FAQs
+- Mental Health Services
+- Regional Center (RC) Deaf Specialists & Deaf Resources
+
+Website: https://www.dds.ca.gov/services/deaf-hard-of-hearing-and-deafblind-resources/

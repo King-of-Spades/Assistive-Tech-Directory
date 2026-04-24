@@ -1,6 +1,8 @@
 # Special Education Programs (Contra Costa County, CA)
 
-This document details Special Education resources within the county of Contra Costa, California.
+This document details Special Education resources within the county of Contra Costa, California. 
+
+**Note**: Most or all of the special education programs listed here are not explicit about the range of disabilities they support. However, contextually it seems like most would broadly try to support any students/age-ranges with any condition requiring special education. So these resources may be worth contacting in addition to explicitly "specialized" resources.
 
 ## Mt. Diablo Unified School District Special Education
 
@@ -108,3 +110,17 @@ Pinole, CA 94564
 
 Phone: (510) 307-4642  
 Fax: (510) 724-8829
+
+## Regional Center of the East Bay
+
+Provides a broad range of support services for those with Developmental Disabilities and their families across the East Bay. 
+
+Website: https://rceb.org/about-us/who-we-serve/  
+Services: https://rceb.org/clients/our-services/services-list/  
+Eligibility criteria: https://rceb.org/clients/am-i-eligible/  
+
+### Contact Info
+
+Has multiple contact options depending on need and service area. They also have an online contact form. 
+
+Contact page: https://rceb.org/about-us/contact-us/

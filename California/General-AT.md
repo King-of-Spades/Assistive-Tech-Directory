@@ -9,6 +9,9 @@ California's Assistive Technology Act Program.
 - Website: https://abilitytools.org/
 - About page: https://abilitytools.org/about/about-at.php
 - AT page: https://abilitytools.org/about/what-is-at.php
+- Services Directory: https://abilitytools.org/services/services-directory.php
+
+(**Note**: At time of writing, the services directory search doesn't work if using a zip code to narrow down regional results.)
 
 ### Independent Living Centers (ILC)
 
@@ -65,3 +68,40 @@ California department for disability services. Provides state-wide information a
 
 **Note**: Refers back to the [Ability Tools resource](#ability-tools) listed above.
 
+## Parents Helping Parents
+
+Non-profit support organization for family members and caregivers of loved ones with disabilities. information by age and topic:
+
+- Early Childhood
+- Youth & Teens
+- Adults
+- Special Education
+- Public Benefits & Financial Assistance
+- Regional Center Client Services
+- Assistive Technology
+
+Website: https://www.php.com/about-parents-helping-parents-disability-support-resources-and-information/
+
+### Contact Info
+
+Site requests using contact form, emailing, or calling and allowing 24-48 hours for a response.
+
+- Contact form: https://www.php.com/contact-parents-helping-parents/
+- Email: info@php.com
+- Phone: 408-727-5775
+
+## Disability Rights Education & Defense Fund
+
+Parent Training and Information Center (PTI) funded by the U.S. Department of Education. Serves families with children ages 0-26 with disabilities. They can help with tasks like those listed here:
+
+- Obtain appropriate education and services
+- Work to improve education results
+- Train parents and professionals
+- Resolve problems between families and schools or other agencies
+- Connect children with disabilities to community resources
+
+### Contact Info
+
+Education advocate  
+Email: iephelp@dredf.org  
+Phone: 1 (800) 348-4232  

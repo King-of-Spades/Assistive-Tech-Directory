@@ -119,3 +119,17 @@ info@abilitynowba.org
 
 Phone: (510) 531-3323  
 Fax: (510) 531-2990
+
+## Regional Center of the East Bay
+
+Provides a broad range of support services for those with Developmental Disabilities and their families across the East Bay. 
+
+Website: https://rceb.org/about-us/who-we-serve/  
+Services: https://rceb.org/clients/our-services/services-list/  
+Eligibility criteria: https://rceb.org/clients/am-i-eligible/  
+
+### Contact Info
+
+Has multiple contact options depending on need and service area. They also have an online contact form. 
+
+Contact page: https://rceb.org/about-us/contact-us/

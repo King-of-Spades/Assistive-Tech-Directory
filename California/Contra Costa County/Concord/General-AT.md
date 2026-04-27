@@ -36,10 +36,23 @@ Concord, CA 94520
 
 - Website contact form: https://www.ilrscc.org/contact-us/
 
-
 ## Concord City Community Services
 
 Resource list of many supportive services available in Concord.
 
 https://www.cityofconcord.org/DocumentCenter/View/10755/City-of-Concord-Resource-List
+
+## Concord Visitor Center Accessible Resources
+
+Has information on a number of accessible locations and services, including mobility services, equipment rentals, and sign language and interpreter services.
+
+https://www.visitconcordca.com/accessible-concord/
+
+### Contact Info
+
+2151 Salvio Street
+Suite T  
+Concord, CA 94520 
+
+Phone: 925-685-1182
 

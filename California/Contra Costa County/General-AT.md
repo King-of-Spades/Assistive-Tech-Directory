@@ -133,3 +133,26 @@ Eligibility criteria: https://rceb.org/clients/am-i-eligible/
 Has multiple contact options depending on need and service area. They also have an online contact form. 
 
 Contact page: https://rceb.org/about-us/contact-us/
+
+## Contra Costa County Government
+
+The county government provides information and a form to request accommodation for access to County facilities, programs, or services. 
+
+Website: https://www.contracosta.ca.gov/8570/ADA-Accessibility
+
+### Contact Info
+
+Diane Truong  
+Title II ADA Program Manager  
+
+Email: Diane.Truong@riskm.cccounty.us  
+Phone: 925-335-1400  
+TTY: Call 711  
+
+Physical Address  
+2530 Arnold Dr. Suite 140  
+Martinez, CA  94553
+
+Hours  
+8:00 am - 5:00 pm  
+Monday - Friday

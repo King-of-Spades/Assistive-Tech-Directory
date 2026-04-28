@@ -4,3 +4,5 @@ This repository is a directory of common resources intended to be utilized by AT
 
 If you have any feedback, suggestions, or additions/removals to recommend; please [file an issue](https://github.com/King-of-Spades/Assistive-Tech-Directory/issues) or [open a pull-request](https://github.com/King-of-Spades/Assistive-Tech-Directory/pulls). 
 Thanks in advance for any helpful support!
+
+[Open the directory](index.md)

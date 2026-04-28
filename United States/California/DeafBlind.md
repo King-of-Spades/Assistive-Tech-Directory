@@ -30,7 +30,6 @@ Multiple contact channels are listed depending on the nature of the inquiry.
 - General Questions: Contact the Project Coordinator Julie Maier at jmaier@sfsu.edu (or leave a voicemail at 415-405-7558)
 - Fax: 415-338-2845 
 
-Mailing Address:
 San Francisco State University  
 Department of Special Education  
 1600 Holloway Avenue  

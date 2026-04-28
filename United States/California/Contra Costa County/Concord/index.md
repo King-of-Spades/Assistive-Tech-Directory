@@ -15,12 +15,17 @@
 
         - [Solano County](.\United%20States/California/Solano%20County/General-AT.md)
 
-# Assistive Tech (AT) Directory
+# Concord Resources
 
-## About
+This section includes resources I've found and documented that are active in the city of Concord, California:
 
-This repository is a directory of common resources intended to be utilized by AT providers, consumers, or related professionals. This collection is **NOT** intended to be any sort of review or signal of approval of the resources listed, as the author has not directly worked with many of those listed. Rather it is simply an organized reference of publically searchable and discoverable information that can be tricky to find from scratch. 
-
-If you have any feedback, suggestions, or additions/removals to recommend; please [file an issue](https://github.com/King-of-Spades/Assistive-Tech-Directory/issues) or [open a pull-request](https://github.com/King-of-Spades/Assistive-Tech-Directory/pulls). 
-Thanks in advance for any helpful support!
-
+- [General Assistive Technology (AT)](General-AT.md)
+- [Augmentive and Alternative Communication (AAC)](AAC.md)
+- [Autism and Learning Disabilities](Autism.md)
+- [Blind / Visually Impaired](Blind.md)
+- [Deaf / Hearing Impaired](Deaf.md)
+- [Digital Access](Digital-Access.md)
+- [Seniors](Seniors.md)
+- [Special Education Programs](Special-Ed.md)
+- [Transportation Resources](Transit.md)
+- [Vocational Rehabilitation (VR)](VR.md)

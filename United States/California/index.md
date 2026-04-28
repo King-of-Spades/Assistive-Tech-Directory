@@ -25,9 +25,7 @@ You can also view resources documented at the county and city level:
 - **Alameda County**:
     - [Berkeley](/United%20States/California/Alameda%20County/Berkeley/General-AT.md)
     - [Fruitvale](/United%20States/California/Alameda%20County/Fruitvale/General-AT.md)
-
 - [Contra Costa County](/United%20States/California/Contra%20Costa%20County/index.md):
     - [Concord](/United%20States/California/Contra%20Costa%20County/Concord/index.md)
     - [Oakley](/United%20States/California/Contra%20Costa%20County/Oakley/General-AT.md)
-
 - [Solano County](/United%20States/California/Solano%20County/General-AT.md)

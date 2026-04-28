@@ -1,3 +1,10 @@
+#### Navigation
+
+- [About this directory](/index.md)
+- [United States](/United%20States/index.md)
+- [California](/United%20States/California/index.md)
+    - **[Solano County](/United%20States/California/Solano%20County/General-AT.md)**
+
 # General Assistive Technology (AT) Resources (Solano, CA)
 
 This document details general AT organizations, resources, and practioniers within the county of Solano, California.

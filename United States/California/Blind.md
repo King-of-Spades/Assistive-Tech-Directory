@@ -1,3 +1,9 @@
+#### Navigation
+
+- [About this directory](/index.md)
+- [United States](/United%20States/index.md)
+- **[California](/United%20States/California/index.md)**
+
 # Resources for the Blind and Visually Impaired (California)
 
 This document details blind and visually impaired resources within California.

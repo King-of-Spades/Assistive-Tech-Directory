@@ -82,6 +82,8 @@ Non-profit support organization for family members and caregivers of loved ones 
 
 Website: https://www.php.com/about-parents-helping-parents-disability-support-resources-and-information/
 
+Community Resource Directory: https://www.php.com/directory/?online=on
+
 ### Contact Info
 
 Site requests using contact form, emailing, or calling and allowing 24-48 hours for a response.

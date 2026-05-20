@@ -155,10 +155,11 @@ Phone: (510) 215-3969
 
 Non-profit providing services to adults with developmental disabilities. Has an information table at Concord's weekly Farmer's Market in Todos Santos Plaza.
 
-Website: https://fullcircleofchoices.org
-Services outline: https://fullcircleofchoices.org/ils-%2F-sls
+- Website: https://fullcircleofchoices.org
+- Services outline: https://fullcircleofchoices.org/ils-%2F-sls
 
 ### Contact Info
+
 - Phone: (925) 682-6107
 - Fax: 925-682-6006
 - Contact form: https://fullcircleofchoices.org/contact-us
